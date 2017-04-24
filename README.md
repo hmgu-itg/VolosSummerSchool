@@ -4,4 +4,4 @@
 </div>
 <br>
 <br>
-Please click [here](https://github.com/wtsi-team144/VolosSummerSchool/blob/master/intro.ipynb) to access the workshop material.
+Please click [https://github.com/wtsi-team144/VolosSummerSchool/blob/master/intro.ipynb](here) to access the workshop material.
