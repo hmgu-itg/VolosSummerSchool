@@ -1,0 +1,5 @@
+# Ignore downloaded zipped materials:
+*gz
+
+# Ignore the donwnloaded gwas catalog:
+full
