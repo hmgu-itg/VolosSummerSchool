@@ -36,10 +36,10 @@ This is the repository for the course materials and workshops.
 
 ## Workshops
 <center>
-<table>
+<table align="center">
 <tr>
 <td><strong>Workshop 1 : </strong> The UNIX command line</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/Basic_UNIX.ipynb">Go to workshop (basic)</a> <br><br>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/Basic_UNIX.ipynb">Go to workshop (basic)</a> <br>
 <a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1b_AdvancedUNIX/Advanced%20bash%20tutorial.ipynb">Go to workshop (advanced)</a> 
 </td>
 </tr>
