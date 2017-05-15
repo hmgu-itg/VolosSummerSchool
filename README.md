@@ -6,6 +6,33 @@
 <br>
 
 
-Please click 
-[here](https://github.com/wtsi-team144/VolosSummerSchool/blob/master/intro.ipynb) 
-to access the workshop material.
+Welcome! 
+
+This is the repository for the course materials and workshops. 
+
+## Lectures
+<table>
+<tr>
+<td><strong>Lecture 1 : </strong> Introduction to complex trait genetics (E. Zeggini)</td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Lectures/Lecture1.pptx">download presentation</a> </td>
+</tr>
+<tr>
+<td align="center"><strong>Lecture 2 : </strong> Current tools and best practices for performing genome-wide association scans (A. Gilly)</td>
+<td><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Lectures/Lecture2.pptx">download presentation</a> </td>
+</tr>
+<tr>
+<td align="center"><strong>Lecture 3 : </strong> The statistics of genome-wide association studies (I. Tachmazidou)</td>
+<td><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Lectures/Lecture3.pptx">download presentation</a> </td>
+</tr>
+<tr>
+<td align="center"><strong>Lecture 4 : </strong> Meta-analysis of genome-wide association scans (I. Tachmazidou)</td>
+<td><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Lectures/Lecture4.pptx">download presentation</a> </td>
+</tr>
+<tr>
+<td align="center"><strong>Lecture 5 : </strong> Pleiotropy in human complex traits (S.Hackinger)</td>
+<td><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Lectures/Lecture5.pptx">download presentation</a> </td>
+</tr>
+</table>
+
+## Workshops
+https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/kh7/Basic_UNIX.ipynb
