@@ -9,7 +9,11 @@
 Welcome! 
 
 This is the repository for the course materials and workshops.
-
+<style>
+td {
+    text-align: left;
+}
+</style>
 ## Lectures
 | Title | Link |
 | :---: | :---: |
