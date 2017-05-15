@@ -35,8 +35,8 @@ This is the repository for the course materials and workshops.
 </table>
 
 ## Workshops
-
-<table style="width: 100%;">
+<center>
+<table>
 <tr>
 <td><strong>Workshop 1 : </strong> The UNIX command line</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/Basic_UNIX.ipynb">Go to workshop (basic)</a> <br><br>
@@ -52,15 +52,15 @@ This is the repository for the course materials and workshops.
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop3_geneticAssociation/VSS_WS3_Genetic_Association.ipynb">Go to workshop</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Workshop 4 : </strong> Publicly available bioinformatics resources</td>
+<td><strong>Workshop 4 : </strong> Publicly available bioinformatics resources</td>
 <td align="center"><a href="">Go to workshop</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Workshop 5 : </strong> Meta-analysis of genetic association studies</td>
+<td><strong>Workshop 5 : </strong> Meta-analysis of genetic association studies</td>
 <td align="center"><a href="">Go to workshop</a> </td>
 </tr>
 </table>
-
+</center>
 
 
 
