@@ -9,11 +9,11 @@
 Welcome! 
 
 This is the repository for the course materials and workshops.
-<style>
-td {
-    text-align: left;
-}
-</style>
+<table>
+<tr>
+<td>Hello sadness</td>
+</tr>
+</table>
 ## Lectures
 | Title | Link |
 | :---: | :---: |
