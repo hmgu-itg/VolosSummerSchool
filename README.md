@@ -35,4 +35,7 @@ This is the repository for the course materials and workshops.
 </table>
 
 ## Workshops
-https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/kh7/Basic_UNIX.ipynb
+https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/Basic_UNIX.ipynb
+https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1b_AdvancedUNIX/Advanced%20bash%20tutorial.ipynb
+https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop2_QC/Workshop_QC.ipynb
+https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop3_geneticAssociation/VSS_WS3_Genetic_Association.ipynb
