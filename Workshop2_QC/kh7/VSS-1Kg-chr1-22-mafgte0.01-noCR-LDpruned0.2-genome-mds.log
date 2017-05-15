@@ -1,0 +1,44 @@
+PLINK v1.90b3w 64-bit (2 Sep 2015)
+Options in effect:
+  --bfile /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-LDpruned0.2
+  --cluster
+  --mds-plot 10
+  --out /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-LDpruned0.2-genome-mds
+  --read-genome /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-LDpruned0.2-genome.genome
+
+Hostname: gen1b
+Working directory: /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7
+Start time: Tue Apr 25 17:12:29 2017
+
+Random number seed: 1493136749
+48265 MB RAM detected; reserving 24132 MB for main workspace.
+Allocated 18099 MB successfully, after larger attempt(s) failed.
+65860 variants loaded from .bim file.
+1630 people (255 males, 283 females, 1092 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-LDpruned0.2-genome-mds.nosex
+.
+Using 1 thread.
+Warning: This run includes BLAS/LAPACK linear algebra operations which
+currently disregard the --threads limit.  If this is problematic, you may want
+to recompile against single-threaded BLAS/LAPACK.
+Before main variant filters, 1630 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.99542.
+65860 variants and 1630 people pass filters and QC.
+Note: No phenotypes present.
+Clustering... done.
+Cluster solution written to
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-LDpruned0.2-genome-mds.cluster1
+,
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-LDpruned0.2-genome-mds.cluster2
+, and
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-LDpruned0.2-genome-mds.cluster3
+.
+Performing multidimensional scaling analysis (SVD algorithm, 10
+dimensions)... done.
+MDS solution written to
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-LDpruned0.2-genome-mds.mds
+.
+
+End time: Tue Apr 25 17:12:39 2017

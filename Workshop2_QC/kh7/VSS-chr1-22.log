@@ -1,0 +1,28 @@
+PLINK v1.90b3w 64-bit (2 Sep 2015)
+Options in effect:
+  --autosome
+  --bfile /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS
+  --make-bed
+  --out /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-chr1-22
+
+Hostname: gen1b
+Working directory: /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7
+Start time: Tue Apr 25 13:58:57 2017
+
+Random number seed: 1493125137
+48265 MB RAM detected; reserving 24132 MB for main workspace.
+416436 variants loaded from .bim file.
+538 people (255 males, 283 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 538 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.994499.
+416436 variants and 538 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-chr1-22.bed +
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-chr1-22.bim +
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-chr1-22.fam ...
+done.
+
+End time: Tue Apr 25 13:58:58 2017

@@ -1,0 +1,27 @@
+PLINK v1.90b3w 64-bit (2 Sep 2015)
+Options in effect:
+  --bfile VSS
+  --make-bed
+  --out VSS_sampleQCed
+  --remove Final_exclusionlist.txt
+
+Hostname: gen1a
+Working directory: /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7
+Start time: Tue May  2 16:34:30 2017
+
+Random number seed: 1493739270
+48265 MB RAM detected; reserving 24132 MB for main workspace.
+426901 variants loaded from .bim file.
+538 people (255 males, 283 females) loaded from .fam.
+--remove: 498 people remaining.
+Warning: At least 32 duplicate IDs in --remove file.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 498 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.999954.
+426901 variants and 498 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to VSS_sampleQCed.bed + VSS_sampleQCed.bim + VSS_sampleQCed.fam ...
+done.
+
+End time: Tue May  2 16:34:32 2017

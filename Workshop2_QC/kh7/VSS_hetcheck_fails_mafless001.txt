@@ -1,0 +1,4 @@
+ID	Percent_het	ID2	F_MISS
+BadSample_1	38.34	BadSample_1	0.5853
+BadSample_3	47.16	BadSample_3	0.5782
+BadSample_5	32.92	BadSample_5	0.5764

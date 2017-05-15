@@ -1,0 +1,27 @@
+PLINK v1.90b3w 64-bit (2 Sep 2015)
+Options in effect:
+  --bfile merge_v2
+  --make-bed
+  --out merge_v3
+  --update-ids updateIDS.txt
+
+Hostname: gen1a
+Working directory: /lustre/scratch113/teams/zeggini/ReferenceData/1kg/VolosSS
+Start time: Sun Apr 23 14:47:20 2017
+
+Random number seed: 1492955240
+48265 MB RAM detected; reserving 24132 MB for main workspace.
+426901 variants loaded from .bim file.
+538 people (255 males, 283 females) loaded from .fam.
+--update-ids: 15 people updated.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 538 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 549 het. haploid genotypes present (see merge_v3.hh ); many commands
+treat these as missing.
+Total genotyping rate is 0.994497.
+426901 variants and 538 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to merge_v3.bed + merge_v3.bim + merge_v3.fam ... done.
+
+End time: Sun Apr 23 14:47:21 2017

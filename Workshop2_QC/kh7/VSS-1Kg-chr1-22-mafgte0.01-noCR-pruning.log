@@ -1,0 +1,56 @@
+PLINK v1.90b3w 64-bit (2 Sep 2015)
+Options in effect:
+  --bfile /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR
+  --indep 50 5 1.25
+  --out /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-pruning
+
+Hostname: gen1b
+Working directory: /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7
+Start time: Tue Apr 25 17:00:37 2017
+
+Random number seed: 1493136037
+48265 MB RAM detected; reserving 24132 MB for main workspace.
+279949 variants loaded from .bim file.
+1630 people (255 males, 283 females, 1092 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-pruning.nosex
+.
+Using 1 thread.
+Warning: This run includes BLAS/LAPACK linear algebra operations which
+currently disregard the --threads limit.  If this is problematic, you may want
+to recompile against single-threaded BLAS/LAPACK.
+Before main variant filters, 1630 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.996333.
+279949 variants and 1630 people pass filters and QC.
+Note: No phenotypes present.
+Pruned 17869 variants from chromosome 1, leaving 5566.
+Pruned 17491 variants from chromosome 2, leaving 4947.
+Pruned 15077 variants from chromosome 3, leaving 4311.
+Pruned 14388 variants from chromosome 4, leaving 4114.
+Pruned 13109 variants from chromosome 5, leaving 3853.
+Pruned 12940 variants from chromosome 6, leaving 3708.
+Pruned 11986 variants from chromosome 7, leaving 3610.
+Pruned 11206 variants from chromosome 8, leaving 3145.
+Pruned 9841 variants from chromosome 9, leaving 2989.
+Pruned 11250 variants from chromosome 10, leaving 3326.
+Pruned 10719 variants from chromosome 11, leaving 3228.
+Pruned 10260 variants from chromosome 12, leaving 3244.
+Pruned 8357 variants from chromosome 13, leaving 2401.
+Pruned 7196 variants from chromosome 14, leaving 2261.
+Pruned 6565 variants from chromosome 15, leaving 2183.
+Pruned 6916 variants from chromosome 16, leaving 2392.
+Pruned 6122 variants from chromosome 17, leaving 2328.
+Pruned 6346 variants from chromosome 18, leaving 2042.
+Pruned 4981 variants from chromosome 19, leaving 2125.
+Pruned 5219 variants from chromosome 20, leaving 1849.
+Pruned 3129 variants from chromosome 21, leaving 1063.
+Pruned 3122 variants from chromosome 22, leaving 1175.
+Pruning complete.  214089 of 279949 variants removed.
+Marker lists written to
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-pruning.prune.in
+and
+/nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7/VSS-1Kg-chr1-22-mafgte0.01-noCR-pruning.prune.out
+.
+
+End time: Tue Apr 25 17:00:45 2017

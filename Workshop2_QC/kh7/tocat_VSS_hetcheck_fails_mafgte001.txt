@@ -1,0 +1,7 @@
+BadSample_1	BadSample_1
+BadSample_2	BadSample_2
+BadSample_3	BadSample_3
+BadSample_5	BadSample_5
+BadSample_12	BadSample_12
+BadSample_13	BadSample_13
+BadSample_15	BadSample_15

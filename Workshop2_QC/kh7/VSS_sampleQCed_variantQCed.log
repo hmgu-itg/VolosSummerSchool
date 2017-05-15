@@ -1,0 +1,37 @@
+PLINK v1.90b3w 64-bit (2 Sep 2015)
+Options in effect:
+  --bfile VSS_sampleQCed
+  --exclude cluster_sep_scr_to-exclude.txt
+  --geno 0.02
+  --hwe 0.0001
+  --maf 0.01
+  --make-bed
+  --out VSS_sampleQCed_variantQCed
+
+Hostname: gen1a
+Working directory: /nfs/t144_helic/notebooks/VolosSummerSchool/Workshop_QC/kh7
+Start time: Tue May  2 16:37:43 2017
+
+Random number seed: 1493739463
+48265 MB RAM detected; reserving 24132 MB for main workspace.
+426901 variants loaded from .bim file.
+498 people (240 males, 258 females) loaded from .fam.
+--exclude: 425864 variants remaining.
+Warning: At least 4 duplicate IDs in --exclude file.
+Using 1 thread (no multithreaded calculations invoked.
+Before main variant filters, 498 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.999955.
+193 variants removed due to missing genotype data (--geno).
+Warning: --hwe observation counts vary by more than 10%.  Consider using
+--geno, and/or applying different p-value thresholds to distinct subsets of
+your data.
+--hwe: 132 variants removed due to Hardy-Weinberg exact test.
+145531 variants removed due to minor allele threshold(s)
+(--maf/--max-maf/--mac/--max-mac).
+280008 variants and 498 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to VSS_sampleQCed_variantQCed.bed + VSS_sampleQCed_variantQCed.bim +
+VSS_sampleQCed_variantQCed.fam ... done.
+
+End time: Tue May  2 16:37:45 2017
