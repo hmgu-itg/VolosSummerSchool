@@ -8,11 +8,13 @@
 
 Welcome! 
 
-This is the repository for the course materials and workshops.
+This is the repository for the course materials and workshops. 
+
+## Lectures
 <table>
 <tr>
 <td><strong>Lecture 1 : </strong> Introduction to complex trait genetics (E. Zeggini)</td>
-<td><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Lectures/Lecture1.pptx">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Lectures/Lecture1.pptx">download presentation</a> </td>
 </tr>
 <tr>
 <td><strong>Lecture 2 : </strong> Current tools and best practices for performing genome-wide association scans (A. Gilly)</td>
