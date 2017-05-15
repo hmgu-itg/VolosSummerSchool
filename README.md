@@ -11,8 +11,8 @@ Welcome!
 This is the repository for the course materials and workshops.
 <table>
 <tr>
-<td>**Lecture 1 : ** Introduction to complex trait genetics (E. Zeggini)</td>
-<td>download presentation](https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Lectures/Lecture1.pptx) </td>
+<td><strong>Lecture 1 : </strong> Introduction to complex trait genetics (E. Zeggini)</td>
+<td>[download presentation](https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Lectures/Lecture1.pptx) </td>
 </tr>
 </table>
 
