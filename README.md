@@ -36,7 +36,7 @@ This is the repository for the course materials and workshops.
 
 ## Workshops
 
-<table width="100%">
+<table style="width: 100%;">
 <tr>
 <td><strong>Workshop 1 : </strong> The UNIX command line</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/Basic_UNIX.ipynb">Go to workshop (basic)</a> <br><br>
