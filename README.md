@@ -49,7 +49,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td><strong>Workshop 3 : </strong> Performing a genetic association study</td>
-<td align="center"><a href=http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop3_geneticAssociation/VSS_WS3_Genetic_Association.ipynb">Go to workshop</a> </td>
+<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop3_geneticAssociation/VSS_WS3_Genetic_Association.ipynb">Go to workshop</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 4 : </strong> Publicly available bioinformatics resources</td>
