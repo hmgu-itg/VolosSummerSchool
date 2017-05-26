@@ -39,25 +39,25 @@ This is the repository for the course materials and workshops.
 <table align="center">
 <tr>
 <td><strong>Workshop 1 : </strong> The UNIX command line</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/Basic_UNIX.ipynb">Go to workshop (basic)</a> <br>
-<a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop1b_AdvancedUNIX/Advanced%20bash%20tutorial.ipynb">Go to workshop (advanced)</a> 
+<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/Basic_UNIX.ipynb">Go to workshop (basic)</a> <br>
+<a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop1b_AdvancedUNIX/Workshop1b_AdvancedUNIX.ipynb">Go to workshop (advanced)</a> 
 </td>
 </tr>
 <tr>
 <td><strong>Workshop 2 : </strong> Quality Control for genome-wide association scans</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop2_QC/Workshop_QC.ipynb">Go to workshop</a> </td>
+<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop2_QC/Workshop_QC.ipynb">Go to workshop</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 3 : </strong> Performing a genetic association study</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/blob/master/Workshop3_geneticAssociation/VSS_WS3_Genetic_Association.ipynb">Go to workshop</a> </td>
+<td align="center"><a href=http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop3_geneticAssociation/VSS_WS3_Genetic_Association.ipynb">Go to workshop</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 4 : </strong> Publicly available bioinformatics resources</td>
-<td align="center"><a href="">Go to workshop</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Workshop4_Followup/VSS_Workshop_4v3.pptx">Download Presentation</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 5 : </strong> Meta-analysis of genetic association studies</td>
-<td align="center"><a href="">Go to workshop</a> </td>
+<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop5_MetaAnalysis/Meta-analysis.ipynb">Go to workshop</a> </td>
 </tr>
 </table>
 </center>
