@@ -22,11 +22,11 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td><strong>Lecture 3 : </strong> The statistics of genome-wide association studies (I. Tachmazidou)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture3.pptx">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture3.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 4 : </strong> Meta-analysis of genome-wide association scans (I. Tachmazidou)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture4.pptx">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture4.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 5 : </strong> Pleiotropy in human complex traits (S.Hackinger)</td>
