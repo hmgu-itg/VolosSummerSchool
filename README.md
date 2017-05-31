@@ -30,7 +30,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td align="center"><strong>Lecture 5 : </strong> Pleiotropy in human complex traits (S.Hackinger)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture5.pptx">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture5.pdf">download presentation</a> </td>
 </tr>
 </table>
 
