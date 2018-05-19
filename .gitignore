@@ -3,3 +3,5 @@
 
 # Ignore the donwnloaded gwas catalog:
 GWAS_catalog_2017.05.12
+
+data/
