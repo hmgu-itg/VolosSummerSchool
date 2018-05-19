@@ -1,6 +1,6 @@
 <div align="center">
-<h1>1st Volos Summer School of Human Genetics</h1>
-<i>Volos, Thessalia</i>
+<h1>2nd Volos Summer School of Human Genetics</h1>
+<i>21-23 May 2018, Volos, Thessalia</i>
 </div>
 <br>
 <br>
