@@ -14,23 +14,23 @@ This is the repository for the course materials and workshops.
 <table>
 <tr>
 <td><strong>Lecture 1 : </strong> Introduction to complex trait genetics (E. Zeggini)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture1.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2018/Lectures/Lecture1.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td><strong>Lecture 2 : </strong> Current tools and best practices for performing genome-wide association scans (A. Gilly)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture2.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2018/Lectures/Lecture2.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td><strong>Lecture 3 : </strong> The statistics of genome-wide association studies (I. Tachmazidou)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture3.pdf">download presentation</a> </td>
+<td><strong>Lecture 3 : </strong> The statistics of genome-wide association studies (A. Gilly)</td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2018/Lectures/Lecture3.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Lecture 4 : </strong> Meta-analysis of genome-wide association scans (I. Tachmazidou)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture4.pdf">download presentation</a> </td>
+<td align="center"><strong>Lecture 4 : </strong> Meta-analysis of genome-wide association scans (FRM Aguilera)</td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2018/Lectures/Lecture4.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Lecture 5 : </strong> Pleiotropy in human complex traits (S.Hackinger)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Lectures/Lecture5.pdf">download presentation</a> </td>
+<td align="center"><strong>Lecture 5 : </strong> Pleiotropy in human complex traits (S. Hackinger)</td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2018/Lectures/Lecture5.pdf">download presentation</a> </td>
 </tr>
 </table>
 
@@ -40,25 +40,25 @@ This is the repository for the course materials and workshops.
 <tr>
 <td><strong>Workshop 1 : </strong> The UNIX command line</td>
 <td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop1a_BasicUNIX/Basic_UNIX.ipynb">Go to workshop (basic)</a> <br>
-(<a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Workshop1a_BasicUNIX/VSS_WKS1_shorter.pptx">PowerPoint version</a>) <br>
-<a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop1b_AdvancedUNIX/Workshop1b_AdvancedUNIX.ipynb">Go to workshop (advanced)</a> 
+(<a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2018/Workshop1a_BasicUNIX/VSS_WKS1_shorter.pptx">PowerPoint version</a>) <br>
+<a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2018/VSS_2018/Workshop1b_AdvancedUNIX/Workshop1b_AdvancedUNIX.ipynb">Go to workshop (advanced)</a> 
 </td>
 </tr>
 <tr>
 <td><strong>Workshop 2 : </strong> Quality Control for genome-wide association scans</td>
-<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop2_QC/Workshop_QC.ipynb">Go to workshop</a> </td>
+<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2018/Workshop2_QC/Workshop_QC.ipynb">Go to workshop</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 3 : </strong> Performing a genetic association study</td>
-<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop3_geneticAssociation/VSS_WS3_Genetic_Association.ipynb">Go to workshop</a> </td>
+<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2018/Workshop3_geneticAssociation/VSS_WS3_Genetic_Association.ipynb">Go to workshop</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 4 : </strong> Publicly available bioinformatics resources</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/Workshop4_Followup/VSS_Workshop_4v3.pptx">Download Presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2018/Workshop4_Followup/VSS_Workshop_4v3.pptx">Download Presentation</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 5 : </strong> Meta-analysis of genetic association studies</td>
-<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/Workshop5_MetaAnalysis/Meta-analysis.ipynb">Go to workshop</a> </td>
+<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2018/Workshop5_MetaAnalysis/Meta-analysis.ipynb">Go to workshop</a> </td>
 </tr>
 </table>
 </center>
