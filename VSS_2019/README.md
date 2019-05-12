@@ -13,15 +13,15 @@ This is the repository for the course materials and workshops.
 ## Lectures
 <table>
 <tr>
-<td><strong>Lecture 1 : </strong> Introduction to complex trait genetics (E. Zeggini)</td>
+<td align="center"><strong>Lecture 1 : </strong> Introduction to complex trait genetics (E. Zeggini)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2019/Lectures/Lecture1.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td><strong>Lecture 2 : </strong> Current tools and best practices for performing genome-wide association scans (A. Gilly)</td>
+<td align="center"><strong>Lecture 2 : </strong> Current tools and best practices for performing genome-wide association scans (A. Gilly)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2019/Lectures/Lecture2.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td><strong>Lecture 3 : </strong> The statistics of genome-wide association studies (A. Gilly)</td>
+<td align="center"><strong>Lecture 3 : </strong> The statistics of genome-wide association studies (A. Gilly)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2019/Lectures/Lecture3.pdf">download presentation</a> </td>
 </tr>
 <tr>
