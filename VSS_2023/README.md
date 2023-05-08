@@ -17,7 +17,7 @@ This is the repository for the course materials and workshops.
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture1_Introduction.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Lecture 2 : </strong> Quality control (O. Bocher)</td>
+<td align="center"><strong>Lecture 2 : </strong> Quality control (K. Hatzikotoulas)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture2_QC.pdf">download presentation</a> </td>
 </tr>
 <tr>
