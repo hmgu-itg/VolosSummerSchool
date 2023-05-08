@@ -61,11 +61,11 @@ This is the repository for the course materials and workshops.
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Workshop5_Followup/VSS_Workshop_4v3.pptx">Download Presentation</a> </td>
 </tr>
 <tr>
-<td><strong>Workshop 6 : </strong> Publicly available bioinformatics resources</td>
+<td><strong>Workshop 6 : </strong> Polygenic risk scores </td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Workshop6_PGS/VSS_Workshop_4v3.pptx">Download Presentation</a> </td>
 </tr>
 <tr>
-<td><strong>Workshop 7 : </strong> Publicly available bioinformatics resources</td>
+<td><strong>Workshop 7 : </strong> Molecular QTL mapping in humans </td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Workshop7_MultiOmics/VSS_Workshop_4v3.pptx">Download Presentation</a> </td>
 </tr>
 </table>
