@@ -1,2 +1,0 @@
-MarkerName	Allele1	Allele2	Freq1	FreqSE	MinFreq	MaxFreq	Effect	StdErr	P-value	Direction	HetISq	HetChiSq	HetDf	HetPVal	N_total
-rs9641123	c	g	0.3917	0.0007	0.3917	0.4026	0.0204	0.0038	7.374e-08	++	96.9	31.926	1	1.602e-08	234006
