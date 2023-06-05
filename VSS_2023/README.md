@@ -62,7 +62,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td><strong>Workshop 5 : </strong> Publicly available bioinformatics resources</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Workshop5_Followup/VSS_Workshop_4v3.pptx">Go to workshop</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Workshop5_Followup/VSS_Workshop_4v3.pptx">Download presentation</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 6 : </strong> Polygenic risk scores </td>
