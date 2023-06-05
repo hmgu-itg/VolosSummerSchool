@@ -66,7 +66,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td><strong>Workshop 6 : </strong> Polygenic risk scores </td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Workshop6_PGS/VSS_Workshop_4v3.pptx">Download Presentation</a> </td>
+<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2023/5_Workshop_Polygenic_Scores/5_Workshop_PGS.ipynb">Download Presentation</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 7 : </strong> Molecular QTL mapping in humans </td>
