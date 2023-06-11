@@ -43,22 +43,22 @@ This is the repository for the course materials and workshops.
 <table align="center">
 <tr>
 <td><strong>Workshop 1 : </strong> The UNIX command line</td>
-<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/Workshop1a_BasicUNIX/Basic_UNIX.ipynb?flush_cache=true">Go to workshop (basic)</a> <br>
+<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/1a_Workshop_Basic_UNIX/1a_Workshop_Basic_UNIX.ipynb?flush_cache=true">Go to workshop (basic)</a> <br>
 (<a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2019/Workshop1a_BasicUNIX/VSS_WKS1_shorter.pptx">PowerPoint version</a>) <br>
-<a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/Workshop1b_AdvancedUNIX/Workshop1b_AdvancedUNIX.ipynb?flush_cache=true">Go to workshop (advanced)</a> 
+<a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/1b_Workshop_Advanced_UNIX/1b_Workshop_Advanced_UNIX.ipynb?flush_cache=true">Go to workshop (advanced)</a> 
 </td>
 </tr>
 <tr>
 <td><strong>Workshop 2 : </strong> Quality Control for genome-wide association scans</td>
-<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/Workshop2_QC/Workshop_QC.ipynb?flush_cache=true">Go to workshop</a> </td>
+<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/2_Workshop_Quality_Control/2_Workshop_Quality_Control_partI.ipynb?flush_cache=true">Go to workshop</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 3 : </strong> Performing a genetic association study</td>
-<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/Workshop3_GeneticAssociation/VSS_WS3_Genetic_Association.ipynb?flush_cache=true">Go to workshop</a> </td>
+<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2023/5_Workshop_Polygenic_Scores/3_Workshop_Genetic_Association.ipynb">Go to workshop</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 4 : </strong> Meta-analysis of genetic association studies</td>
-<td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/Workshop4_MetaAnalysis/Meta-analysis.ipynb?flush_cache=true">Go to workshop</a> </td>
+<td align="center"><a href="hhttps://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2023/5_Workshop_Polygenic_Scores/4_Workshop_Meta-analysis.ipynb">Go to workshop</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 5 : </strong> Publicly available bioinformatics resources</td>
