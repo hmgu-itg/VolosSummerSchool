@@ -63,7 +63,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td><strong>Workshop 4 : </strong> Meta-analysis of genetic association studies</td>
-<td align="center"><a href="hhttps://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2023/4_Workshop_Meta_Analysis/4_Workshop_Meta-analysis.ipynb">Go to workshop</a> </td>
+<td align="center"><a href="hhttps://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2023/4_Workshop_Meta_Analysis/4_Workshop_Meta_analysis.ipynb">Go to workshop</a> </td>
 </tr>
 <tr>
 <td><strong>Workshop 6 : </strong> Polygenic risk scores </td>
