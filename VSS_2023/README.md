@@ -51,7 +51,7 @@ This is the repository for the course materials and workshops.
 <tr>
 <td><strong>Workshop 2 : </strong> Quality Control for genome-wide association scans</td>
 <td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/2_Workshop_Quality_Control/2_Workshop_Quality_Control_partI.ipynb?flush_cache=true">Go to workshop (part 1)</a> <br>
-<a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/2_Workshop_Quality_Control/2_Workshop_Quality_Control_partII.ipynb?flush_cache=true">Go to workshop (advanced)</a> 
+<a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/2_Workshop_Quality_Control/2_Workshop_Quality_Control_partII.ipynb?flush_cache=true">Go to workshop (part 2)</a> 
 </td>
 </tr>
 <tr>
