@@ -35,6 +35,9 @@ This is the repository for the course materials and workshops.
 <tr>
 <td align="center"><strong>Lecture 6 : </strong> An introduction to Polygenic Scores (A. Arruda)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture6_PGS.pdf">download presentation</a> </td>
+<tr>
+<td align="center"><strong>Lecture 7 : </strong> Molecular QTL mapping in humans (O. Bocher)</td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture7_molQTL.pdf">download presentation</a> </td>
 </tr>
 </table>
 
