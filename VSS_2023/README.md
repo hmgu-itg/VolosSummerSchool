@@ -44,7 +44,7 @@ This is the repository for the course materials and workshops.
 <tr>
 <td><strong>Workshop 1 : </strong> The UNIX command line</td>
 <td align="center"><a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/1a_Workshop_Basic_UNIX/1a_Workshop_Basic_UNIX.ipynb?flush_cache=true">Go to workshop (basic)</a> <br>
-(<a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2019/Workshop1a_BasicUNIX/VSS_WKS1_shorter.pptx">PowerPoint version</a>) <br>
+(<a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/1a_Workshop_Basic_UNIX/Workshop1_BasicUnix.pptx">PowerPoint version</a>) <br>
 <a href="http://nbviewer.jupyter.org/github/wtsi-team144/VolosSummerSchool/blob/master/VSS_2023/1b_Workshop_Advanced_UNIX/1b_Workshop_Advanced_UNIX.ipynb?flush_cache=true">Go to workshop (advanced)</a> 
 </td>
 </tr>
