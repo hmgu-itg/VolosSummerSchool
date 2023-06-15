@@ -75,7 +75,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td><strong>Workshop 7 : </strong> Molecular QTL mapping in humans </td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/7_Workshop_molQTL/7_Workshop_molQTL.ipynb">Go to workshop</a> </td>
+<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/VSS_2023/7_Workshop_molQTL/7_Workshop_molQTL.ipynb">Go to workshop</a> </td>
 </tr>
 </table>
 </center>
