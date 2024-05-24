@@ -1,6 +1,6 @@
 <div align="center">
-<h1>4th Volos Summer School of Human Genetics</h1>
-<i>12-15 June 2023, Volos, Thessalia</i>
+<h1>5th Volos Summer School of Human Genetics</h1>
+<i>29th of May - 1st of June 2024, Volos, Thessalia</i>
 </div>
 <br>
 <br>
