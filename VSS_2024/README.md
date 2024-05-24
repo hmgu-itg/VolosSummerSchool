@@ -18,7 +18,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td align="center"><strong>Lecture 2 : </strong> Sequencing methods (M. Tutino)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2024/Lectures/Lecture2_Sequencing.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2024/Lectures/Lecture2_Sequencing_methods.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 3 : </strong> Statistics for human genetics (A. Arruda)</td>
@@ -30,7 +30,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td align="center"><strong>Lecture 5 : </strong> Molecular QTL mapping in humans (M. Tutino)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2024/Lectures/Lecture5_molQTL.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2024/Lectures/Lecture5_molecularQTL.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 6 : </strong> Publicly available bioinformatics resources (K. Hatzikotoulas)</td>
@@ -41,7 +41,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td align="center"><strong>Lecture 8 : </strong> Complex trait genetics and the genomic aetiology of osteoarthritis (E. Zeggini)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2024/Lectures/Lecture8_GeneticsOfOA.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2024/Lectures/Lecture8_OA.pdf">download presentation</a> </td>
 </tr>
 </table>
 
