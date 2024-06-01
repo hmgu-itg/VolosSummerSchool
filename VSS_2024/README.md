@@ -40,7 +40,7 @@ This is the repository for the course materials and workshops.
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2024/Lectures/Lecture7_PGS.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Lecture 8 : </strong> Complex trait genetics and the genomic aetiology of type 2 diabetes (E. Zeggini)</td>
+<td align="center"><strong>Lecture 8 : </strong> Complex trait genetics and the genomic aetiology of type 2 diabetes and osteoarthritis (E. Zeggini)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2024/Lectures/Lecture8_OA.pdf">download presentation</a> </td>
 </tr>
 </table>
