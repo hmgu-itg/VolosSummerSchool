@@ -18,7 +18,7 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td align="center"><strong>Lecture 2 : </strong> Sequencing methods (N. Bittner)</td>
-<td align="center"><a href="https://github.com/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/Lectures/Lecture2_Sequencing_lecture.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/Lectures/Lecture2_Sequencing_lecture_2025.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 3 : </strong> Statistics for human genetics (N. Bittner)</td>
