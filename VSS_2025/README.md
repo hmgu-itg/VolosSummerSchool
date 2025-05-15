@@ -36,8 +36,8 @@ This is the repository for the course materials and workshops.
 <td align="center"><strong>Lecture 6 : </strong> Publicly available bioinformatics resources (K. Hatzikotoulas)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2025/Lectures/Lecture6_PublicResources.pdf">download presentation</a> </td>
 <tr>
-<td align="center"><strong>Lecture 7 : </strong> An introduction to polygenic scores (A.  Arruda)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2025/Lectures/Lecture7_PGS.pdf">download presentation</a> </td>
+<td align="center"><strong>Lecture 7 : </strong> An introduction to polygenic scores (O. Soremekun)</td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2025/Lectures/Lecture7_PGS_2025.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 8 : </strong> Complex trait genetics and the genomic aetiology of type 2 diabetes and osteoarthritis (E. Zeggini)</td>
