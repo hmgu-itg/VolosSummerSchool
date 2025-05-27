@@ -53,36 +53,37 @@ This is the repository for the course materials and workshops.
 <td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/1a_Workshop_Basic_UNIX/1a_Workshop_Basic_UNIX.ipynb?flush_cache=true">Go to workshop (basic)</a> <br>
 (<a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/1a_Workshop_Basic_UNIX/Workshop1_BasicUnix.pptx">PowerPoint version</a>) <br>
 <a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/1b_Workshop_Additional_UNIX/1b_Workshop_Additional_UNIX.ipynb?flush_cache=true">Go to workshop (additional)</a> <br>
-<a href="https://drive.google.com/drive/folders/1eJ4481Jz62V9c0tnbNkbXKE6GW4RX4Ll?usp=sharing">Google drive folder </a>
+<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
 </td>
 </tr>
 <tr>
 <td><strong>Workshop 2 : </strong> Quality control for genome-wide association scans</td>
 <td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/2_Workshop_Quality_Control/2_Workshop_Quality_Control.ipynb?flush_cache=true">Go to workshop</a> <br>
-<a href="https://drive.google.com/drive/folders/1eJ4481Jz62V9c0tnbNkbXKE6GW4RX4Ll?usp=sharing">Google drive folder </a> 
+<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a> 
 </td>
 </tr>
 <tr>
 <td><strong>Workshop 3 : </strong> Performing a genetic association study</td>
 <td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/3_Workshop_Genetic_Association/3_Workshop_Genetic_Association.ipynb">Go to workshop</a> <br>
-<a href="https://drive.google.com/drive/folders/1eJ4481Jz62V9c0tnbNkbXKE6GW4RX4Ll?usp=sharing">Google drive folder </a>
+<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
 </td>
 </tr>
 <tr>
 <td><strong>Workshop 4 : </strong> Meta-analysis of genetic association studies</td>
 <td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/4_Workshop_Meta_Analysis/4_Workshop_Meta_analysis.ipynb">Go to workshop</a>  <br>
-<a href="https://drive.google.com/drive/folders/1eJ4481Jz62V9c0tnbNkbXKE6GW4RX4Ll?usp=sharing">Google drive folder </a>
+<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
 </td>
 </tr>
 <tr>
 <td><strong>Workshop 5 : </strong> Molecular QTL mapping in humans</td>
 <td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/5_Workshop_molQTL/5_Workshop_molQTL.ipynb">Go to workshop</a>  <br>
-<a href="https://drive.google.com/drive/folders/1eJ4481Jz62V9c0tnbNkbXKE6GW4RX4Ll?usp=sharing">Google drive folder </a>
+<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
 </td>
 </tr>
 <tr>
 <td><strong>Workshop 7 : </strong> Polygenic risk scores </td>
-<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/7_Workshop_Polygenic_Scores/7_Workshop_PGS.ipynb">Go to workshop</a> </td>
+<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/7_Workshop_Polygenic_Scores/7_Workshop_PGS.ipynb">Go to workshop</a>  <br>
+<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
 </tr>
 <tr>
 </table>
