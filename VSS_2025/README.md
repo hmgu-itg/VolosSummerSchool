@@ -51,7 +51,7 @@ This is the repository for the course materials and workshops.
 <tr>
 <td><strong>Workshop 1 : </strong> The UNIX command line</td>
 <td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/1a_Workshop_Basic_UNIX/1a_Workshop_Basic_UNIX.ipynb?flush_cache=true">Go to workshop (basic)</a> <br>
-(<a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/1a_Workshop_Basic_UNIX/Workshop1_BasicUnix.pptx">PowerPoint version</a>) <br>
+(<a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2025/1a_Workshop_Basic_UNIX/Workshop1_BasicUnix.pptx">PowerPoint version</a>) <br>
 <a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2025/1b_Workshop_Additional_UNIX/1b_Workshop_Additional_UNIX.ipynb?flush_cache=true">Go to workshop (additional)</a> <br>
 <a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
 </td>
