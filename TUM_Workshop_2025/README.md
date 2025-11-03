@@ -1,6 +1,6 @@
 <div align="center">
-<h1>6th Volos Summer School of Human Genetics</h1>
-<i>28th of May - 31st of May 2025, Volos, Thessalia</i>
+<h1>2025 Human Genetics of Complex Traits - Workshop  </h1>
+<i>10th of November - 14th of November 2025, Institute of Translational Genomics, Helmholtz Munich</i>
 </div>
 <br>
 <br>
@@ -25,7 +25,7 @@ This is the repository for the course materials and workshops.
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2025/Lectures/Lecture3_Statistics.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Lecture 4 : </strong> Meta-analysis strategies in genome-wide association studies (O. Soremekun)</td>
+<td align="center"><strong>Lecture 4 : </strong> Meta-analysis strategies in genome-wide association studies (K. Hatzikotoulas)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2025/Lectures/Lecture4_MetaAnalysis.pdf">download presentation</a> </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ This is the repository for the course materials and workshops.
 <td align="center"><strong>Lecture 6 : </strong> Publicly available bioinformatics resources (K. Hatzikotoulas)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2025/Lectures/Lecture6_PublicResources.pdf">download presentation</a> </td>
 <tr>
-<td align="center"><strong>Lecture 7 : </strong> An introduction to polygenic scores (O. Soremekun)</td>
+<td align="center"><strong>Lecture 7 : </strong> An introduction to polygenic scores (K. Hatzikotoulas)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2025/Lectures/Lecture7_PGS_2025.pdf">download presentation</a> </td>
 </tr>
 <tr>
