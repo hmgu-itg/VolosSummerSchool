@@ -1,5 +1,6 @@
 # Repository of the Volos Summer School
 
+* For the 2025 TUM Workshop edition, please click [here](TUM_Workshop_2025/README.md)
 * For the 2025 edition, please click [here](VSS_2025/README.md)
 * For the 2024 edition, please click [here](VSS_2024/README.md)
 * For the 2023 edition, please click [here](VSS_2023/README.md)
