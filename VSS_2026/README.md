@@ -83,7 +83,7 @@ This is the repository for the course materials and workshops.
 <tr>
 <td><strong>Workshop 7 : </strong> Polygenic risk scores </td>
 <td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2026/7_Workshop_Polygenic_Scores/Workshop_PGS.ipynb">Go to workshop</a>  <br>
-<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
+<a href="https://drive.google.com/drive/folders/1R0GNL1a89apsCXrYGE0gyqAV65IgSebp">Google drive folder </a>
 </tr>
 <tr>
 </table>
