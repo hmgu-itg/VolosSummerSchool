@@ -6,7 +6,7 @@
 <br>
 
 
-Welcome! 
+Welcome!
 
 This is the repository for the course materials and workshops. 
 
@@ -14,7 +14,7 @@ This is the repository for the course materials and workshops.
 <table>
 <tr>
 <td align="center"><strong>Lecture 1 : </strong> Current tools and best practices for performing genome-wide association scans (K. Hatzikotoulas)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2026/Lectures/Lecture1_QC.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2026/Lectures/Lecture1.pptx">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 2 : </strong> Sequencing methods (G. Katsoula)</td>
@@ -34,14 +34,14 @@ This is the repository for the course materials and workshops.
 </tr>
 <tr>
 <td align="center"><strong>Lecture 6 : </strong> Publicly available bioinformatics resources (K. Hatzikotoulas)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2026/Lectures/Lecture6_PublicResources.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2026/Lectures/LectureWorkshop6_Hatzikotoulas.pptx">download presentation</a> </td>
 <tr>
 <td align="center"><strong>Lecture 7 : </strong> An introduction to polygenic scores (A. Arruda)</td>
 <td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2026/Lectures/Lecture7_PGS.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 8 : </strong> Complex trait genetics and the genomic aetiology of type 2 diabetes and osteoarthritis (E. Zeggini)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2026/Lectures/Lecture8_OA.pdf">download presentation</a> </td>
+<td align="center"> </td>
 </tr>
 </table>
 
@@ -59,7 +59,7 @@ This is the repository for the course materials and workshops.
 <tr>
 <td><strong>Workshop 2 : </strong> Quality control for genome-wide association scans</td>
 <td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2026/2_Workshop_Quality_Control/2_Workshop_Quality_Control.ipynb?flush_cache=true">Go to workshop</a> <br>
-<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a> 
+<a href="https://drive.google.com/drive/folders/1eSYRao_wg9ec7C4598dHZetJ4gDSDWyY?usp=sharing">Google drive folder </a> 
 </td>
 </tr>
 <tr>
