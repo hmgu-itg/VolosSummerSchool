@@ -9,6 +9,7 @@
 Welcome!
 
 This is the repository for the course materials and workshops. 
+Google drive folder to COPY into your google drive: https://drive.google.com/drive/folders/1mKGV90BwLNzeZfepvduUzBfMj1-5h7wF 
 
 ## Lectures
 <table>
