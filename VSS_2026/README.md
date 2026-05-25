@@ -63,14 +63,8 @@ This is the repository for the course materials and workshops.
 </td>
 </tr>
 <tr>
-<td><strong>Workshop 3 : </strong> Performing a genetic association study</td>
+<td><strong>Workshop 3 and 4: </strong> Performing a genetic association study and a meta-analysis</td>
 <td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2026/3_Workshop_Genetic_Association/3_Workshop_Genetic_Association.ipynb">Go to workshop</a> <br>
-<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
-</td>
-</tr>
-<tr>
-<td><strong>Workshop 4 : </strong> Meta-analysis of genetic association studies</td>
-<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2026/4_Workshop_Meta_Analysis/4_Workshop_Meta_analysis.ipynb">Go to workshop</a>  <br>
 <a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
 </td>
 </tr>
