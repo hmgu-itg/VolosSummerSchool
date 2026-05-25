@@ -69,8 +69,6 @@ Google drive folder to COPY into your google drive: https://drive.google.com/dri
 </tr>
 <tr>
 <td><strong>Workshop 5 : </strong> Molecular QTL mapping in humans</td>
-<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/VolosSummerSchool/blob/master/VSS_2026/5_Workshop_molQTL/5_Workshop_molQTL.ipynb">Go to workshop</a>  <br>
-<a href="https://drive.google.com/drive/folders/1y_Y1rjj84z9-qpacB5NTwC_fiA5HcGC6?usp=sharing">Google drive folder </a>
 </td>
 </tr>
 <tr>
