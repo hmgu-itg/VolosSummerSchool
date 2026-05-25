@@ -23,9 +23,11 @@ Google drive folder to COPY into your google drive: https://drive.google.com/dri
 </tr>
 <tr>
 <td align="center"><strong>Lecture 3 : </strong> Statistics for human genetics (O. Bocher)</td>
+<td align="center"><a href="https://github.com/hmgu-itg/VolosSummerSchool/blob/master/VSS_2026/Lectures/Lecture3_Statistics.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 4 : </strong> Meta-analysis strategies in genome-wide association studies (O. Bocher)</td>
+<td align="center"><a href="https://github.com/hmgu-itg/VolosSummerSchool/blob/master/VSS_2026/Lectures/Lecture4_meta_analysis_RVAT.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 5 : </strong> Molecular QTL mapping in humans (O. Stergiou)</td>
